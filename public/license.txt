@@ -1,0 +1,11 @@
+Model Information:
+* title:	Casa De Axolotl
+* source:	https://sketchfab.com/3d-models/casa-de-axolotl-6f8a603d1f7f44caaa3e50b995dc8472
+* author:	dhar (https://sketchfab.com/Dharia.Pitman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Casa De Axolotl" (https://sketchfab.com/3d-models/casa-de-axolotl-6f8a603d1f7f44caaa3e50b995dc8472) by dhar (https://sketchfab.com/Dharia.Pitman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
