@@ -78,6 +78,7 @@ const Contact = () => {
               placeholder="What's your name?"
               onChange={handleChange}
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
+              required
             />
           </label>
           <label htmlFor="" className="flex flex-col">
@@ -89,6 +90,7 @@ const Contact = () => {
               placeholder="What's your email?"
               onChange={handleChange}
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
+              required
             />
           </label>
           <label htmlFor="" className="flex flex-col">
@@ -100,6 +102,7 @@ const Contact = () => {
               onChange={handleChange}
               placeholder="What you want to say?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
+              required
             />
           </label>
           <button
