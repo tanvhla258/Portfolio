@@ -31,6 +31,9 @@ import {
   cap3,
   daihoc,
   frontend,
+  book,
+  restaurant,
+  quiz,
 } from "../assets";
 
 export const navLinks = [
@@ -255,26 +258,81 @@ const projects = [
     image: football,
     source_code_link: "https://github.com/tanvhla258/Premier-League-management",
   },
+  // {
+  //   name: "Fokify",
+  //   description:
+  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+  //   tags: [
+  //     {
+  //       name: "javascript",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "API",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: fokify,
+  //   source_code_link: "https://github.com/tanvhla258/Fokify-udemy",
+  // },
   {
-    name: "Fokify",
+    name: "Book Management",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The ultimate management website for bookstores. BookManager simplifies bookstore operations like never before. From a comprehensive dashboard to streamline invoicing, book entry, customer management, and receipt tracking, BookManager empowers you to efficiently manage your bookstore, maximize profitability, and enhance customer satisfaction.",
     tags: [
       {
-        name: "javascript",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "API",
+        name: "postgresql",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "javaspring",
+        color: "white-text-gradient",
+      },
+    ],
+    image: book,
+    source_code_link: "https://github.com/tanvhla258/TKPM",
+  },
+  {
+    name: "React Quiz",
+    description:
+      "The ultimate quiz website powered by ReactJS and enhanced with the useReducer hook. Engage in an immersive quiz experience like never before. Test your knowledge, challenge your friends, and track your progress with ease. Get ready to embark on a journey of learning and fun with React Quiz..",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "useReducer",
         color: "pink-text-gradient",
       },
     ],
-    image: fokify,
-    source_code_link: "https://github.com/tanvhla258/Fokify-udemy",
+    image: quiz,
+    source_code_link: "https://github.com/tanvhla258/React-Quiz",
+  },
+  {
+    name: "Gerich Restaurant",
+    description:
+      "A delightful single-page restaurant website crafted with the latest technologies. Powered by ReactJS, enhanced with the elegant Tailwind CSS framework, and enriched with captivating React animations, FlavorBites offers a seamless and visually stunning experience. Explore our enticing menu, make reservations, and immerse yourself in a culinary adventure.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "violet-text-gradient",
+      },
+    ],
+    image: restaurant,
+    source_code_link: "https://github.com/tanvhla258/React-Quiz",
   },
 ];
 

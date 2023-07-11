@@ -39,10 +39,15 @@ import tripguide from "./tripguide.png";
 import fokify from "./fokify.png";
 import moonmusic from "./moonmusic.png";
 import football from "./football.png";
+import book from "./book.png";
+import quiz from "./quiz.png";
+import restaurant from "./restaurant.png";
 
 export {
   fokify,
+  restaurant,
   moonmusic,
+  quiz,
   football,
   logo,
   backend,
@@ -77,4 +82,5 @@ export {
   tripguide,
   bootstrap,
   nextjs,
+  book,
 };
